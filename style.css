@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+}
+nav{
+    width: 100%;
+    padding: 10px 5px;
+    background-color: #ccc;
+}
+#content{
+    width: 100%;
+    padding: 10px 5px;
+    background-color: white;
+}
